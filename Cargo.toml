@@ -1,0 +1,10 @@
+[package]
+name = "watch_json_app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+notify = "8.2.0"
+tokio = { version = "1.53.1", features = ["full"] }
+watch_folder_lib = { git = "https://github.com/ggajda/watch_folder_lib.git", version = "0.2.0" }
