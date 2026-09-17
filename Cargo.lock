@@ -305,8 +305,8 @@ checksum = "ccf3ec651a847eb01de73ccad15eb7d99f80485de043efb2f370cd654f4ea44b"
 
 [[package]]
 name = "watch_folder_lib"
-version = "0.2.0"
-source = "git+https://github.com/ggajda/watch_folder_lib.git#950ea12968bb7ed889fa7216f439f0f321af0aa4"
+version = "0.2.1"
+source = "git+https://github.com/ggajda/watch_folder_lib.git#f9b5b9429fca6db93d1edafed286166a66302001"
 dependencies = [
  "anyhow",
  "notify",
